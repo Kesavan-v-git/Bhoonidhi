@@ -30,8 +30,7 @@ Transmitter:
   5) XL6009E1 Booster
 
 Setup:
- 1)Pairing the gyroscope
- <img width="187" height="104" alt="image" src="https://github.com/user-attachments/assets/70c32240-b54d-423f-b3c7-ecc40d3ab0f7" /> 
+ 1)Pairing the gyroscope <img width="187" height="104" alt="image" src="https://github.com/user-attachments/assets/70c32240-b54d-423f-b3c7-ecc40d3ab0f7" /> 
  
  We are using betaflight-configurator_10.10.0_win64-installer.exe to install the BetaFlight and then setting up the Firmware.
 
@@ -40,11 +39,9 @@ Setup:
   Motor protocol- BRUSHED
   Motor PWM frequency- 8000
 
-  3) Motor Driver assembly
-     <img width="184" height="191" alt="image" src="https://github.com/user-attachments/assets/53d7b6cc-513e-4b68-9507-0e2a7734a113" />
+  3) Motor Driver assembly <img width="184" height="191" alt="image" src="https://github.com/user-attachments/assets/53d7b6cc-513e-4b68-9507-0e2a7734a113" />
 
-  4)Wiring the System
-  <img width="293" height="259" alt="image" src="https://github.com/user-attachments/assets/4c5ea47d-67fe-409c-a0b3-ec280fb11555" />
+  4)Wiring the System <img width="293" height="259" alt="image" src="https://github.com/user-attachments/assets/4c5ea47d-67fe-409c-a0b3-ec280fb11555" />
 
   5) Testing and Flight
      Check the working of each motors in the BetaFlight by powering up one after another, we are ready to go with the flight.
