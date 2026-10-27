@@ -42,7 +42,7 @@ Setup:
   Motor protocol- BRUSHED
   Motor PWM frequency- 8000
 
-  3) Motor Driver assembly
+ 3) Motor Driver assembly
     
     
   <img width="184" height="191" alt="image" src="https://github.com/user-attachments/assets/53d7b6cc-513e-4b68-9507-0e2a7734a113" />
