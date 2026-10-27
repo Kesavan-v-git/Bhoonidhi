@@ -31,7 +31,8 @@ Transmitter:
 
 Setup:
  1)Pairing the gyroscope
- <img width="187" height="104" alt="image" src="https://github.com/user-attachments/assets/70c32240-b54d-423f-b3c7-ecc40d3ab0f7" />
+ <img width="187" height="104" alt="image" src="https://github.com/user-attachments/assets/70c32240-b54d-423f-b3c7-ecc40d3ab0f7" /> 
+ 
  We are using betaflight-configurator_10.10.0_win64-installer.exe to install the BetaFlight and then setting up the Firmware.
 
  2)Configuring the Software in the BetaFlight
